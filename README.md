@@ -2,7 +2,7 @@
 
 A new Flutter project.
 <div class="image-container">
-  <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/52011278-ee96-4d08-b1c8-339faba8b1eb" alt="WhatsApp Image" width="300" height="200">
+  <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/52011278-ee96-4d08-b1c8-339faba8b1eb" alt="WhatsApp Image" width="300" height="400">
 </div>
 
 
