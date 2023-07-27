@@ -6,13 +6,13 @@ A new Flutter project.![WhatsApp Image 2023-07-26 at 6 01 24 PM (1)](https://git
 </div>
 .image-container {
   /* Set the desired width and height for the image */
-  width: 50px; /* Adjust this value to your desired width */
-  height: 50px; /* This will maintain the aspect ratio of the image */
+  width: 50; /* Adjust this value to your desired width */
+  height: 50; /* This will maintain the aspect ratio of the image */
 
   /* You can add additional styles here, like borders or margins */
 }
 
-![WhatsApp Image 2023-07-26 at 6 01 24 PM (1)](https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/d4f0c01a-15d6-4038-8ddf-552ef06bf3df | width="200" | height="200")
+
 ![WhatsApp Image 2023-07-26 at 6 01 24 PM](https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/086f9090-80a0-4fe9-a5a3-8aa19b3c7a3f)
 
 ## Getting Started
