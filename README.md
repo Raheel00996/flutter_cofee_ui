@@ -1,14 +1,16 @@
 # coffee
 
 A new Flutter project.
-<div class="image-container"style="border: 2px solid #cfc;">
+<div class="image-container">
   <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/52011278-ee96-4d08-b1c8-339faba8b1eb" alt="WhatsApp Image" width="270" height="650" >
+</div>
+
+<div class="image-container">
+  <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/086f9090-80a0-4fe9-a5a3-8aa19b3c7a3f" alt="WhatsApp Image" width="270" height="650" >
 </div>
 
 
 
-
-![WhatsApp Image 2023-07-26 at 6 01 24 PM](https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/086f9090-80a0-4fe9-a5a3-8aa19b3c7a3f)
 
 ## Getting Started
 
