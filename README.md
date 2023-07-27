@@ -1,12 +1,18 @@
 # coffee
 
 A new Flutter project.
-<div class="image-container">
-  <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/52011278-ee96-4d08-b1c8-339faba8b1eb" alt="WhatsApp Image" width="270" height="650" >
-</div>
+
 
 <div class="image-container">
-  <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/086f9090-80a0-4fe9-a5a3-8aa19b3c7a3f" alt="WhatsApp Image" width="270" height="650" >
+  <tr>
+    <td style="padding-right: 50px;">
+      <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/52011278-ee96-4d08-b1c8-339faba8b1eb" alt="WhatsApp Image" width="270" height="650" >
+    </td>
+    <td style="padding-right: 50px;">
+        <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/086f9090-80a0-4fe9-a5a3-8aa19b3c7a3f" alt="WhatsApp Image" width="270" height="650" >
+    </td>
+  </tr>
+
 </div>
 
 
