@@ -1,6 +1,6 @@
 # coffee
 
-A new Flutter project.![WhatsApp Image 2023-07-26 at 6 01 24 PM (1)](https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/52011278-ee96-4d08-b1c8-339faba8b1eb)
+A new Flutter project.
 <div class="image-container">
   <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/52011278-ee96-4d08-b1c8-339faba8b1eb" alt="WhatsApp Image">
 </div>
