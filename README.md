@@ -6,8 +6,8 @@ A new Flutter project.![WhatsApp Image 2023-07-26 at 6 01 24 PM (1)](https://git
 </div>
 .image-container {
   /* Set the desired width and height for the image */
-  width: 200px; /* Adjust this value to your desired width */
-  height: 200px; /* This will maintain the aspect ratio of the image */
+  width: 50px; /* Adjust this value to your desired width */
+  height: 50px; /* This will maintain the aspect ratio of the image */
 
   /* You can add additional styles here, like borders or margins */
 }
