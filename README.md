@@ -1,8 +1,8 @@
 # coffee
 
 A new Flutter project.
-<div class="image-container">
-  <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/52011278-ee96-4d08-b1c8-339faba8b1eb" alt="WhatsApp Image" width="270" height="650"style="border: 2px solid #ccc;">
+<div class="image-container"style="border: 2px solid #cfc;">
+  <img src="https://github.com/Raheel00996/flutter_cofee_ui/assets/140609286/52011278-ee96-4d08-b1c8-339faba8b1eb" alt="WhatsApp Image" width="270" height="650" >
 </div>
 
 
